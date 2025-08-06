@@ -1,0 +1,21 @@
+rut,nombre,direccion,comuna,fecha_nacimiento,telefono,email
+11223344-4,Tomás Ramírez,,Arica,1994-12-31,,tomas@example.com
+11223344-5,Laura Rojas,Calle Virtual 567,Antofagasta,1998-07-12,945678321,laura@example.com
+12345678-9,Juan Perez,Calle Falsa 123,Santiago,2000-05-15,912345678,juan@example.com
+23456789-1,Pedro Rodríguez,,Valparaíso,1988-03-10,912345678,pedro@example.com
+33445566-5,Camila Torres,Calle Cibernética 456,,1993-02-14,977894512,camila@example.com
+33445566-7,Mateo Diaz,,Viña del Mar,2002-02-28,967894512,mateo@example.com
+34567890-2,Carla González,Calle Inventada 789,,1999-12-05,934567890,carla@example.com
+45678901-3,Diego Martínez,Avenida Irreal 987,La Serena,,,diego@example.com
+55667788-6,Matias Castro,Avenida Innovación 321,,1992-06-08,923478965,
+55667788-9,Valentina Herrera,Avenida Tecnológica 123,,1997-04-05,923478965,valentina@example.com
+56789012-4,Ana Lopez,,,1990-08-18,978901234,ana@example.com
+67890123-5,Luisa Fernández,Calle Ficticia 321,Rancagua,2005-04-25,,luisa@example.com
+77889900-1,Martin Gómez,,Iquique,1996-10-17,955678902,martin@example.com
+77889900-7,Renata Flores,,Copiapó,,,renata@example.com
+78901234-6,Javier Torres,Avenida de Ensueño 654,Temuco,1985-11-30,923456789,
+87654321-0,Maria Sánchez,Avenida Imaginaria 456,Concepción,1995-10-20,987654321,maria@example.com
+89012345-7,Marta Ramírez,Calle Soñada 210,,,,
+90123456-8,Daniel Silva,,Puerto Montt,,,
+99001122-3,Sofía Pérez,Calle Digital 789,,2001-09-22,912345672,sofia@example.com
+99001122-8,Nicolás Ruiz,Calle Programación 210,,2003-11-03,955678902,nicolas@example.com

@@ -1,0 +1,21 @@
+ProductID,Nombre_Prod,Precio,Cantidad,Fecha_Venta,Categoria
+1, Laptop ,1200,5,01/01/2023,Electrónicos
+2, Teléfono ,$800,10,02-01-2023,Electro
+3, Mouse ,50,,03/01/2023,Electrónicos
+4, Teclado ,100,-2,04-01-2023,Electrónicos
+5, Monitor ,300,8,05/01/2023,NaN
+6, Auriculares ,$150,12,06-01-2023,Audio
+7, Tablet ,250,3,07/01/2023,Electrónicos
+8, Impresora ,200,,08-01-2023,Oficina
+9, SSD ,120,7,09/01/2023,NaN
+10, RAM ,80,15,10-01-2023,Electrónicos
+11, Disco Duro ,$90,6,11/01/2023,Almacenamiento
+12, Altavoz ,70,20,12/01/2023,Audio
+13, Webcam ,60,,13-01-2023,Electrónicos
+14, Micrófono ,$75,9,14/01/2023,Audio
+15, Router ,110,-1,15-01-2023,Redes
+16, USB ,20,25,16/01/2023,Accesorios
+17, Hub ,30,4,17/01/2023,NaN
+18, Cable ,15,30,18-01-2023,Accesorios
+19, Adaptador ,$25,2,19/01/2023,Electrónicos
+20, Cargador ,40,11,20-01-2023,Accesorios

@@ -1,0 +1,22 @@
+[
+  {"estudiante_id": 1, "nombre": "ANA", "edad": 20, "nota_final": 85, "asistencia_%": "90%", "curso": "Matemáticas"},
+  {"estudiante_id": "2", "nombre": "Luis", "edad": 22, "nota_final": 78, "asistencia_%": 85, "curso": "Historia"},
+  {"estudiante_id": 3, "nombre": "Carlos", "edad": null, "nota_final": 105, "asistencia_%": "110%", "curso": "Mate"},
+  {"estudiante_id": 4, "nombre": "marta", "edad": 19, "nota_final": 88, "asistencia_%": 95, "curso": null},
+  {"estudiante_id": 5, "nombre": "Pablo", "edad": 150, "nota_final": 92, "asistencia_%": "80%", "curso": "Ciencias"},
+  {"estudiante_id": "6", "nombre": "Sofía", "edad": 21, "nota_final": null, "asistencia_%": 75, "curso": "Literatura"},
+  {"estudiante_id": 7, "nombre": "JUAN", "edad": 20, "nota_final": 70, "asistencia_%": "100%", "curso": "Matemáticas"},
+  {"estudiante_id": 8, "nombre": "Elena", "edad": null, "nota_final": 65, "asistencia_%": 60, "curso": "Historia"},
+  {"estudiante_id": 9, "nombre": "Diego", "edad": 23, "nota_final": 95, "asistencia_%": "105%", "curso": "Ciencias"},
+  {"estudiante_id": "10", "nombre": "Laura", "edad": 20, "nota_final": 83, "asistencia_%": null, "curso": "Arte"},
+  {"estudiante_id": 11, "nombre": "Pedro", "edad": 22, "nota_final": 77, "asistencia_%": "90%", "curso": "Mate"},
+  {"estudiante_id": 12, "nombre": "Lucía", "edad": 21, "nota_final": 89, "asistencia_%": 85, "curso": null},
+  {"estudiante_id": 13, "nombre": "Jorge", "edad": 19, "nota_final": 91, "asistencia_%": "95%", "curso": "Ciencias"},
+  {"estudiante_id": "14", "nombre": "Silvia", "edad": 24, "nota_final": 68, "asistencia_%": 70, "curso": "Historia"},
+  {"estudiante_id": 15, "nombre": "Héctor", "edad": null, "nota_final": 74, "asistencia_%": "80%", "curso": "Literatura"},
+  {"estudiante_id": 16, "nombre": "Raquel", "edad": 20, "nota_final": 96, "asistencia_%": 100, "curso": "Matemáticas"},
+  {"estudiante_id": "17", "nombre": "Óscar", "edad": 25, "nota_final": null, "asistencia_%": "65%", "curso": "Arte"},
+  {"estudiante_id": 18, "nombre": "Isabel", "edad": 22, "nota_final": 82, "asistencia_%": 75, "curso": "Ciencias"},
+  {"estudiante_id": 19, "nombre": "Alberto", "edad": 21, "nota_final": 79, "asistencia_%": "85%", "curso": null},
+  {"estudiante_id": "20", "nombre": "Carmen", "edad": 23, "nota_final": 87, "asistencia_%": 90, "curso": "Historia"}
+]

@@ -1,0 +1,51 @@
+﻿ID_Empleado,Edad,Años_Experiencia,Departamento,Nivel_Puesto,Salario_USD,Horas_Extra_Mes,Rendimiento_Anual,Satisfaccion_Laboral,Proyectos_Completados,Formacion_Continua,Tiempo_Promedio_Proyecto_Dias,Horas_Capacitacion_Anual,Distancia_Oficina_KM,Antiguedad_Meses,Rotacion
+E001,28,3,Ingenieria,Junior,60000,5,8.5,4,12,Si,45,20,15,36,No
+E002,35,8,Desarrollo,Senior,95000,10,9.2,5,18,Si,30,40,10,96,No
+E003,25,2,Marketing,Junior,55000,2,7.8,3,10,No,60,5,25,24,Si
+E004,42,15,Recursos Humanos,Manager,120000,0,9.0,4,8,Si,90,30,5,180,No
+E005,30,5,Ingenieria,Mid-level,75000,7,8.0,4,15,Si,40,25,20,60,No
+E006,27,4,Ventas,Junior,58000,3,7.5,3,9,No,70,10,30,48,No
+E007,38,10,Desarrollo,Senior,105000,12,9.5,5,20,Si,25,50,8,120,No
+E008,32,6,Marketing,Mid-level,70000,4,8.2,4,11,Si,55,15,18,72,No
+E009,45,18,Finanzas,Director,150000,0,9.8,5,7,Si,100,35,3,216,No
+E010,29,3,Ingenieria,Junior,62000,6,8.3,4,13,Si,42,22,12,36,No
+E011,36,9,Desarrollo,Senior,98000,11,9.0,4,19,Si,28,45,9,108,No
+E012,26,2,Marketing,Junior,57000,3,7.7,3,10,No,62,7,28,24,Si
+E013,40,13,Recursos Humanos,Manager,115000,1,8.9,4,9,Si,85,28,6,156,No
+E014,31,5,Ingenieria,Mid-level,78000,8,8.1,4,16,Si,38,27,22,60,No
+E015,28,4,Ventas,Junior,60000,4,7.6,3,10,No,68,12,32,48,No
+E016,39,11,Desarrollo,Senior,108000,13,9.6,5,21,Si,22,55,7,132,No
+E017,33,7,Marketing,Mid-level,72000,5,8.4,4,12,Si,50,18,16,84,No
+E018,46,20,Finanzas,Director,160000,0,9.9,5,8,Si,95,38,2,240,No
+E019,27,2,Ingenieria,Junior,59000,4,8.0,3,11,No,58,10,14,24,No
+E020,34,8,Desarrollo,Senior,96000,10,9.1,4,17,Si,32,42,11,96,No
+E021,25,1,Marketing,Junior,54000,2,7.5,2,9,No,65,4,27,12,Si
+E022,41,14,Recursos Humanos,Manager,118000,0,8.8,4,8,Si,88,29,4,168,No
+E023,30,4,Ingenieria,Mid-level,74000,6,7.9,3,14,Si,43,23,19,48,No
+E024,29,3,Ventas,Junior,57000,3,7.4,2,8,No,72,9,31,36,No
+E025,37,10,Desarrollo,Senior,103000,11,9.4,5,19,Si,27,48,10,120,No
+E026,32,6,Marketing,Mid-level,69000,4,8.1,3,10,Si,57,17,17,72,No
+E027,44,17,Finanzas,Director,145000,0,9.7,5,6,Si,105,33,4,204,No
+E028,28,3,Ingenieria,Junior,61000,5,8.2,4,12,Si,44,21,16,36,No
+E029,35,9,Desarrollo,Senior,97000,10,9.3,5,18,Si,31,43,11,108,No
+E030,26,2,Marketing,Junior,56000,2,7.6,3,9,No,63,6,26,24,Si
+E031,43,16,Recursos Humanos,Manager,122000,1,9.1,4,9,Si,87,31,7,192,No
+E032,31,5,Ingenieria,Mid-level,76000,7,8.0,4,15,Si,41,26,21,60,No
+E033,29,4,Ventas,Junior,59000,4,7.5,3,10,No,69,11,33,48,No
+E034,38,12,Desarrollo,Senior,110000,12,9.6,5,20,Si,24,52,6,144,No
+E035,33,7,Marketing,Mid-level,71000,5,8.3,4,11,Si,53,19,15,84,No
+E036,47,21,Finanzas,Director,165000,0,9.9,5,9,Si,92,39,1,252,No
+E037,27,2,Ingenieria,Junior,58000,3,7.9,3,10,No,59,10,13,24,No
+E038,34,8,Desarrollo,Senior,95000,10,9.0,4,17,Si,33,41,12,96,No
+E039,26,1,Marketing,Junior,53000,2,7.4,2,8,No,66,3,29,12,Si
+E040,40,13,Recursos Humanos,Manager,116000,0,8.7,4,7,Si,91,26,3,156,No
+E041,30,4,Ingenieria,Mid-level,73000,6,7.8,3,13,Si,46,24,18,48,No
+E042,28,3,Ventas,Junior,56000,3,7.3,2,7,No,75,8,34,36,No
+E043,36,9,Desarrollo,Senior,102000,11,9.3,5,18,Si,29,46,9,108,No
+E044,31,6,Marketing,Mid-level,68000,4,8.0,3,9,Si,61,16,16,72,No
+E045,45,17,Finanzas,Director,140000,0,9.6,5,5,Si,110,32,5,204,No
+E046,29,3,Ingenieria,Junior,60000,5,8.1,4,11,Si,47,20,17,36,No
+E047,37,10,Desarrollo,Senior,100000,10,9.2,4,16,Si,35,40,10,120,No
+E048,27,2,Marketing,Junior,55000,2,7.5,3,8,No,64,5,27,24,Si
+E049,42,15,Recursos Humanos,Manager,119000,1,8.9,4,8,Si,89,30,6,180,No
+E050,32,5,Ingenieria,Mid-level,77000,8,8.0,4,14,Si,39,28,20,60,No
